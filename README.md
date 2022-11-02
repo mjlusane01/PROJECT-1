@@ -1,4 +1,4 @@
-# project1
+# project 1
 project 1 EDA analysis
 
 Group Name: 
@@ -19,7 +19,9 @@ Research Questions to Answer
 
 
 Datasets used
-1.	2017 Spotify streaming data (as a csv) retrieved from data.world
-2. Last.fm Music Discovery API from https://www.last.fm/api 
-3. openweathermap api from https://openweathermap.org/
+
+1. Last.fm Music Discovery API from https://www.last.fm/api 
+2. openweathermap api from https://openweathermap.org/
+3. Spotify API from https://developer.spotify.com/documentation/web-api/
+4. spotipy
 
